@@ -14,6 +14,8 @@
 * Open Command Line or Terminal 
 * Change directory to a respective game: `cd "Desktop\PythonAutoDraw"`
 * Run: `python python-auto-draw.py`
+* Then, switch tabs, and open PAINT. Place the cursor on the white board.
+* *ENJOY*
 
 
 ### BASICS:
