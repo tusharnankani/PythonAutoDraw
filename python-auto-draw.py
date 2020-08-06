@@ -7,6 +7,7 @@ time.sleep(10)
 # it will remain clicked till program ends;
 pyautogui.click()
 
+# can be varied according to convininence
 distance = 250
 
 while distance > 0:
