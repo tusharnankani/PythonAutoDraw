@@ -55,3 +55,4 @@
 ## *REFERENCES*:
 - [PyAutoGUI Docs](https://pypi.org/project/PyAutoGUI/)
 - [More about PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/mouse.html#mouse-drags)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter18/)
